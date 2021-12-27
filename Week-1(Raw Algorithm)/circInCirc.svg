@@ -1,0 +1,19 @@
+<svg height="600" width="600">
+<circle cx="300" cy="300" r="300" stroke="black" stroke-width="1" fill="red" />
+<circle cx="110" cy="150.263" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="220" cy="150.263" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="330" cy="150.263" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="440" cy="150.263" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="165" cy="245.526" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="275" cy="245.526" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="385" cy="245.526" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="495" cy="245.526" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="110" cy="340.788" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="220" cy="340.788" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="330" cy="340.788" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="440" cy="340.788" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="165" cy="436.051" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="275" cy="436.051" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="385" cy="436.051" r="55" stroke="black" stroke-width="1" fill="green" />
+<circle cx="495" cy="436.051" r="55" stroke="black" stroke-width="1" fill="green" />
+</svg>

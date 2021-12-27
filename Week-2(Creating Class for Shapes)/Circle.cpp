@@ -1,0 +1,41 @@
+#include "Circle.h"  // include the header of circle
+#include <iostream>
+#include <fstream>
+#include <vector>
+	using namespace std;
+	void Circle::draw(ofstream& fp,string color)const{
+
+		fp<<"<circle cx=\""<<getOriginX()<<"\" cy=\""<<getOriginY()<<"\" r=\""<<getRadius()<<"\" stroke=\"black\" stroke-width=\"1\" fill=\""<<color<<"\" />"<<endl;
+
+	}
+
+	Circle::Circle(){    // No Parameter Constructor
+	}
+	Circle::Circle(double conRadius){   // Constructor with radius parameter
+		radius = conRadius;
+
+	}
+	double Circle::getRadius()const{   // getter function for radius
+		return radius;
+
+	}
+	inline double Circle::getOriginX()const{ // getter function for originX
+		return originX;
+
+	}
+	inline double Circle::getOriginY()const{ // getter function for originY
+		return originY;
+
+	}
+	void Circle::setRadius(double sRadius){  // setter function for radius
+		radius = sRadius;
+
+	}
+	void Circle::setOriginX(double sOriginX){ // setter function for originX
+		originX = sOriginX;
+
+	}
+	void Circle::setOriginY(double sOriginY){   // setter function for originY
+		originY = sOriginY;                 
+
+	}
