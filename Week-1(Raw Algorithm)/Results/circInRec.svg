@@ -1,0 +1,17 @@
+<svg height="400" width="300">
+<rect x="0" y="0" width="300" height="400"
+style="fill:red;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<circle cx="43" cy="43" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="129" cy="43" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="215" cy="43" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="86" cy="117.478" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="172" cy="117.478" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="43" cy="191.956" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="129" cy="191.956" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="215" cy="191.956" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="86" cy="266.435" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="172" cy="266.435" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="43" cy="340.913" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="129" cy="340.913" r="43" stroke="black" stroke-width="1" fill="green" />
+<circle cx="215" cy="340.913" r="43" stroke="black" stroke-width="1" fill="green" />
+</svg>

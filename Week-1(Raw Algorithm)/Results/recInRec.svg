@@ -1,0 +1,32 @@
+<svg height="100" width="150">
+<rect x="0" y="0" width="150" height="100"
+style="fill:red;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="0" y="0" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="40" y="0" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="80" y="0" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="0" y="25" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="40" y="25" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="80" y="25" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="0" y="50" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="40" y="50" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="80" y="50" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="0" y="75" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="40" y="75" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="80" y="75" width="40" height="25"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="120" y="0" width="25" height="40"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+<rect x="120" y="40" width="25" height="40"
+style="fill:green;stroke:black;stroke-width:1;fill-opacity:1;stroke-opacity:0.9" />
+</svg>
